@@ -64,4 +64,4 @@
 
 ---
 
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Takip%20Et&style=social)](https://github.com/yourusername)
+[![GitHub Followers](https://img.shields.io/github/followers/ibrahim-ciftci?label=Takip%20Et&style=social)](https://github.com/ibrahim-ciftci)
