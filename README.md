@@ -53,13 +53,13 @@
 
 ## 🌍 Diller
 - **Anadil:** Türkçe, Arapça  
-- **İngilizce:** Temel Seviye (A2)  
+- **İngilizce:** Orta Seviye (B1)  
 
 ---
 
 ## 📫 İletişim
 - **LinkedIn:** [lbrahimçiftçi](https://linkedin.com/in/lbrahimçiftçi)  
-- **E-posta:** ali63ibo@gmail.com  
+- **E-posta:** inova4712979@gmail.com  
 - **Telefon:** (+90) 542 279 33 52  
 
 ---
